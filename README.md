@@ -58,19 +58,19 @@ print(f"Predicted value: {pre}")`
 ```
 
 ## Output:
-Data Information:
+# Data Information:
 
 ![1](https://github.com/user-attachments/assets/b1d203b3-cb74-4fff-9ff1-90fac9047168)
 
-Value Of X:
+## Value Of X:
 
 ![value of x](https://github.com/user-attachments/assets/b14624b1-4639-496a-9b50-be8530334ff0)
 
-Scaled Value Of Value:
+## Scaled Value Of Value:
 
 ![Scaled value](https://github.com/user-attachments/assets/4158eaea-9a3e-4b08-9b75-22ed3e35f5e8)
 
-Predicted Value:
+## Predicted Value:
 
 ![Pred](https://github.com/user-attachments/assets/23e74a28-98c2-4935-9500-fa69b09b78db)
 
